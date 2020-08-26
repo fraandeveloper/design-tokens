@@ -1,0 +1,7 @@
+---
+global:
+  type: colors
+  category: all
+
+imports:
+  - ./trakto.yml

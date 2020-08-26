@@ -1,0 +1,9 @@
+---
+  global:
+    type: aliases
+    category: pallete-color
+  
+  aliases:
+    color-brand-trakto-dark:  '#4E29E0'
+    color-brand-trakto:       '#7251E7'
+    color-brand-trakto-light: '#987EED'

@@ -1,0 +1,5 @@
+# Lista de todos os arquivos
+imports:
+  - ./color/index.yml
+global:
+  category: tokens

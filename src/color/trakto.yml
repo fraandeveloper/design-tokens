@@ -1,0 +1,26 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-brand-trakto-dark
+    value: '{!color-brand-trakto-dark}'
+    meta:
+      friendlyName: Color Brand Trakto Dark
+    category: background-color
+  
+  - name: color-brand-trakto
+    value: '{!color-brand-trakto}'
+    meta:
+      friendlyName: Color Brand Trakto
+    category: background-color
+  
+  - name: color-brand-trakto-light
+    value: '{!color-brand-trakto-light}'
+    meta:
+      friendlyName: Color Brand Trakto Light
+    category: background-color
