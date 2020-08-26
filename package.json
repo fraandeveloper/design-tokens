@@ -1,0 +1,24 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "description": "Projeto base para design tokens e disponibilizar em projetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraandeveloper/design-tokens.git"
+  },
+  "keywords": [
+    "theo",
+    "design",
+    "tokens"
+  ],
+  "author": "Francisco barros da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraandeveloper/design-tokens/issues"
+  },
+  "homepage": "https://github.com/fraandeveloper/design-tokens#readme"
+}
