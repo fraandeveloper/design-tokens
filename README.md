@@ -30,7 +30,7 @@ A estrutura do projeto é bem simples, ele é divido em 3 partes principais.
 
 
 ```
-groselha-tokens/
+design-tokens/
 ├── src/
 │   ├── border/
 │   ├── color/
