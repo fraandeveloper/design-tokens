@@ -2,6 +2,7 @@
   "name": "design-tokens",
   "version": "1.0.0",
   "description": "Projeto base para design tokens e disponibilizar em projetos",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "directories": {
     "dist": "dist"
   },
